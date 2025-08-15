@@ -98,5 +98,5 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 ✨ Author
 
 Your Name – Machine Learning Enthusiast
-📧 Contact: your.email@example.com
-🔗 GitHub: @your-username
+📧 Contact: dheerajgowd777@gmail.com
+🔗 GitHub: @dheerajgowd-18
