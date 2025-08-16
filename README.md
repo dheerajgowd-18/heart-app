@@ -25,7 +25,7 @@ heart_app/
 
 ⚙️ Installation & Running Locally
 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/heart-app.git
+git clone https://github.com/dheerajgowd-18/heart-app.git
 cd heart-app
 
 2️⃣ Create and activate a virtual environment
